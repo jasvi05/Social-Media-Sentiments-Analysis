@@ -90,13 +90,7 @@ This project focuses on analyzing public sentiments from social media platforms 
 
 ---
 
-## 🙋‍♀️ Author
 
-**Jasvi Desai**  
-Computer Engineering – AI & ML  
-Karnavati University
-
----
 
 > *This project helped me gain hands-on experience with real-world NLP tasks and understand how brands can benefit from data-driven sentiment analysis.*
 
